@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Connecting to mySQL"
+		},
+		{
+			"path": "../pandas/supermarkets"
+		}
+	],
+	"settings": {}
+}
